@@ -1,0 +1,8 @@
+{
+  "name": "some-react-implementation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:matheusfrancisco/some-react-implementation.git",
+  "author": "matheusfrancisco <matheusmachadoufsc@gmail.com>",
+  "license": "MIT"
+}
