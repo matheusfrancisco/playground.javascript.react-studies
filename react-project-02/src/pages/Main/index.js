@@ -2,7 +2,7 @@ import React from 'react';
 
 import {FaGithubAlt, FaPlus } from 'react-icons/fa';
 
-import { Container, Form  } from './styles';
+import { Container, Form, SubmitButton  } from './styles';
 
 export default function Main(){
   return (
