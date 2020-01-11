@@ -20,7 +20,7 @@ export default class Main extends Component {
     const repositories = localStorage.getItem('repositories');
 
     if ( repositories ) {
-      localStorage.setItem({repositories: JSON.parse(repositories)});
+      localStorage.getItem({repositories: JSON.parse(repositories)});
     }
   }
 
